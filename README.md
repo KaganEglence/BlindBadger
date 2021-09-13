@@ -1,3 +1,4 @@
+<h1 align="center"> This project is no longer supported </h1>
 <h1 align="center"> Blind Badger </h1>
 <div align="center">
 Blind Badger is a basic version of "Kavvas". It doesn't need any web framework and database connection.
